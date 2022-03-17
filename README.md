@@ -34,9 +34,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Winning
 <img src="https://j.gifs.com/pZoBYV.gif"><br>
+Losing
 <img src="https://j.gifs.com/16pEwm.gif"><br>
+Start and stop
 <img src="https://j.gifs.com/nRm7Z7.gif"><br>
+Refresh for a new puzzle
 <img src="https://j.gifs.com/oZn8YB.gif"><br>
 
 ## Reflection Questions
