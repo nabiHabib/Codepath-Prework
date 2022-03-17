@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<img src="https://j.gifs.com/pZoBYV.gif"width=250><br>
+<img src="https://j.gifs.com/pZoBYV.gif" width=250><br>
 [](gif3-link-here)
 [](gif4-link-here)
 
