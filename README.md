@@ -36,8 +36,8 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <img src="https://j.gifs.com/pZoBYV.gif"><br>
 <img src="https://j.gifs.com/16pEwm.gif"><br>
-<123img src=""><br>
-<123img src=""><br>
+<img src="https://j.gifs.com/nRm7Z7.gif"><br>
+<img src="https://j.gifs.com/oZn8YB.gif"><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
