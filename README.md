@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <img src="https://j.gifs.com/pZoBYV.gif"><br>
-<img src="http://g.recordit.co/zJwjnOUR7r.gif"><br>
+<img src="https://j.gifs.com/16pEwm.gif"><br>
 <123img src=""><br>
 <123img src=""><br>
 
