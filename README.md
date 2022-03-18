@@ -54,16 +54,25 @@ Refresh for a new puzzle
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
+My first resource I used is for the background of my program. I used the website https://www.sliderrevolution.com/resources/css-animated-background/
+and I copied the css code off the "diagonal color gradients" example. 
+
+My second resource is https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascriptfinding and it helped me out by making random values between one and four throughout the array. 
+
+My last resource was https://gifs.com/ to make my gifs visible on the readme page. I used recordit to initially snap the gif, but for some reason, that gif didn't work. That's when I decided to use the gifs.com website and I believe it compressed the gifs for me. That is probably how I was able to finally see them on my readme. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+The hardest parts about creating this submission was trying to upload the Glitch files onto github and making gifs out of the final product. When I tried dragging and dropping the files that I downloaded off Glitch into the repository folder I had on my desktop, the files wouldn't show up on my github desktop app under the changes section of the app. What I decided to do was just upload the html, css, and js files to github because those are the most important files. I also saw in one of the last videos that I can export my glitch program to github as well. So, I did that too. The second challenge I encountered was trying to upload a gif and have the gif visible on my readme page. I first realized that I couldn't just copy and paste the link from Recordit. When I watched the video attached to it, I saw some code that helped me make my gifs visible. The other problem was that when I inserted my gifs into the code, the extension would be broken and would lead me to a web page saying that the file exceeded the size that the readme page could handle. That is where gifs.com came in handy. I think gifs.com helped compress my gifs to be a smaller size so it could fit on the readme page. Also, my html code, at the first six lines, may be wrong.   
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+One question I had was what other types of languages can you use for web development? I am a bit confused on the purposes of each language are. A lot of the languages are similar in many ways. My guess is js is for web development, c or C++ is for embedded systems, gaming, etc, and python can be used for back end. I am also confused on all the positions in the coding world actually. I Think I understand front end and back end, but the rest confuse me. I think what we are doing right now is front end.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+The first thing I would do speed up the process of the computer giving us hints. I would also add a timer for how long you have to solve the whole problem. Kind of like a stopwatch for chess. I completely unrelated thing I could do is make a sound board with a bunch of squares with all sorts of frequencies. You could click on anyone of them and decide to create a loop. You can also add on top of the loop. It could mimic a loop station and you could be a one-man band. You would also want to play that sounds one after the other. I could also add some delays in the mix too.
 
 
 
