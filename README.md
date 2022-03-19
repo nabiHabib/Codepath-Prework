@@ -78,12 +78,12 @@ The first thing I would do speed up the process of the computer giving us hints.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/bc1f26b60a89426f9daa9e082a954d6b)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Nabi Habib]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
