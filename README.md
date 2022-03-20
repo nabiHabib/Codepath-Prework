@@ -83,7 +83,7 @@ The first thing I would do speed up the process of the computer giving us hints.
 
 ## License
 
-    Copyright [Nab Habib]
+    Copyright [Nabi Habib]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
